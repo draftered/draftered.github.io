@@ -1,3 +1,4 @@
 # hey there
-i love you\n
+i love you
+
 dont use anything i put on here its trash

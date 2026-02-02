@@ -1,18 +1,13 @@
 # hey there
-i love you
+i love you and i love computers
 
-dont use anything i put on here its trash
+i am not a developer nor do i know how to code
 
-# minecraft b1.7.3 stuff:
+i love king gizzard and psychedelic porn crumpets
 
-beta unleashed b1.7.3 (i dont own this): [download](https://drive.google.com/file/d/19QBP5cayh4hFa8tgFkEf2LI7sTXUv8Gw/view?usp=drive_link)
+# stuff
 
-prismlauncher (dont own this either): [download](https://drive.google.com/file/d/1A5W0_hA0-lyYZ0of6JNvNJAgviGSRCyu/view?usp=drive_link)
-
-if you need help talk to me
-
-
-# minecraft 1.20.1 stuff
+my "4 bit" logisim cpu: [git repo](https://github.com/draftered/4bitcpu-logisim)
+i havent touched it in about 6 months its due for an upgrade
 
 
-create ultimate selection w voicechat: [download](https://drive.google.com/file/d/1nujmZtlE2FI6TBZnzsXgUMt4-1clIz5Y/view?usp=drive_link) 

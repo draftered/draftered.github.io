@@ -9,6 +9,8 @@ i love king gizzard and psychedelic porn crumpets
 
 my "4 bit" logisim cpu: [git repo](https://github.com/draftered/4bitcpu-logisim)
 
-i havent touched it in about 6 months its due for an upgrade
+i havent touched it in a while its due for an upgrade
+
+8 BIT LOGISIM CPU IN PROGRESS
 
 
